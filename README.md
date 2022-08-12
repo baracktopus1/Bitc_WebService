@@ -24,5 +24,3 @@ POST /subscribe has x-www-form-urlencoded content type with single field - email
 Then, email will be stored inside file system.
 
 POST /sendEmails gets rate from open exchange rates API and sends it by email to all stored mailboxes.
-
-## More technical details
